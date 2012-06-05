@@ -1,4 +1,6 @@
-This directory contains the UI for Chrome's about:tracing tool.
+This directory is only the tracing folder to the chrome source.
+Tracing is a subsection or resources.
+To run, you will also need at least the full resources directory.
 
 To work on this code:
   cd src/chrome/browser/resources/
